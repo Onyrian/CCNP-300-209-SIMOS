@@ -10,7 +10,7 @@ https://learningnetwork.cisco.com/community/certifications/ccnpsecurity/simos/ex
 The Implementing Cisco Secure Mobility Solutions (SIMOS) (300-209) exam tests a network security engineer on the variety of Virtual Private Network (VPN) solutions that Cisco has available on the Cisco ASA firewall and Cisco IOS software platforms. This 90-minute exam consists of 65–75 questions and assesses the knowledge necessary to properly implement highly secure remote communications through VPN technology, such as remote access SSL VPN and site-to-site VPN (DMVPN, FlexVPN). Candidates can prepare for this exam by taking the Implementing Cisco Secure Mobility Solutions (SIMOS) course.
 
 ## Topics:
-### 1.0 Secure Communications 32%
+### 1.0 Secure Communications *32%*
 
 1.1 Site-to-site VPNs on routers and firewalls
     
@@ -26,7 +26,7 @@ The Implementing Cisco Secure Mobility Solutions (SIMOS) (300-209) exam tests a 
 - 1.2.c Implement clientless SSLVPN on ASA and routers
 - 1.2.d Implement FLEX VPN on routers
 
-### 2.0 Troubleshooting, Monitoring and Reporting Tools 38%
+### 2.0 Troubleshooting, Monitoring and Reporting Tools *38%*
 
 2.1 Troubleshoot VPN using ASDM & CLI
     
@@ -36,7 +36,7 @@ The Implementing Cisco Secure Mobility Solutions (SIMOS) (300-209) exam tests a 
 - 2.1.d Troubleshoot AnyConnect IKEv2 and SSL VPNs on ASA and routers
 - 2.1.e Troubleshoot clientless SSLVPN on ASA and routers
 
-### 3.0 Secure Communications Architectures 30%
+### 3.0 Secure Communications Architectures *30%*
 
 3.1 Design site-to-site VPN solutions
     
