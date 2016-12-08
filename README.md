@@ -19,7 +19,7 @@ The Implementing Cisco Secure Mobility Solutions (SIMOS) (300-209) exam tests a 
 - 1.1.c Implement DMVPN (hub-Spoke and spoke-spoke on both IPV4 & IPV6)
 - 1.1.d Implement FlexVPN (hub-Spoke on both IPV4 & IPV6) using local AAA
   
-- 1.2 Implement remote access VPNs
+1.2 Implement remote access VPNs
     
 - 1.2.a Implement AnyConnect IKEv2 VPNs on ASA and routers
 - 1.2.b Implement AnyConnect SSLVPN on ASA and routers
@@ -45,7 +45,7 @@ The Implementing Cisco Secure Mobility Solutions (SIMOS) (300-209) exam tests a 
 - 3.1.c High availability considerations
 - 3.1.d Identify VPN technology based on configuration output
   
-- 3.2 Design remote access VPN solutions
+3.2 Design remote access VPN solutions
     
 - 3.2.a Identify functional components of FlexVPN, IPsec, and Clientless SSL
 - 3.2.b VPN technology considerations based on functional requirements
@@ -55,7 +55,7 @@ The Implementing Cisco Secure Mobility Solutions (SIMOS) (300-209) exam tests a 
 - 3.2.f Clientless SSL browser and client considerations/requirements
 - 3.2.g Identify split tunneling requirements
   
-- 3.3 Describe encryption, hashing, and Next Generation Encryption (NGE)
+3.3 Describe encryption, hashing, and Next Generation Encryption (NGE)
     
 - 3.3.a Compare and contrast Symmetric and asymmetric key algorithms
 - 3.3.b Identify and describe the cryptographic process in VPNs – Diffie-Hellman, IPsec – ESP, AH, IKEv1, IKEv2, hashing algorithms MD5 and SHA, and authentication methods
